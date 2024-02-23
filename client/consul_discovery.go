@@ -8,8 +8,8 @@ import (
 	"github.com/rpcxio/libkv"
 	"github.com/rpcxio/libkv/store"
 	"github.com/rpcxio/libkv/store/consul"
-	"github.com/smallnest/rpcx/client"
-	"github.com/smallnest/rpcx/log"
+	"github.com/thkhxm/rpcx/client"
+	"github.com/thkhxm/rpcx/log"
 )
 
 func init() {
